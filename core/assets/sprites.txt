@@ -1,0 +1,61 @@
+sprites.png
+size: 128, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brick-colors-0
+  rotate: false
+  xy: 0, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-1
+  rotate: false
+  xy: 64, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-2
+  rotate: false
+  xy: 0, 32
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-3
+  rotate: false
+  xy: 64, 32
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-4
+  rotate: false
+  xy: 0, 64
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-5
+  rotate: false
+  xy: 64, 64
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-6
+  rotate: false
+  xy: 0, 96
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+brick-colors-7
+  rotate: false
+  xy: 64, 96
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
